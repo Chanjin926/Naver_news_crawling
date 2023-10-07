@@ -1,1 +1,1 @@
-# Naver_news_crawling
+네이버 뉴스 크롤링코드입니다.
